@@ -1,4 +1,4 @@
-let product = {
+const product = {
     title:"ball pen",
     rating:4,
     offer:5,
